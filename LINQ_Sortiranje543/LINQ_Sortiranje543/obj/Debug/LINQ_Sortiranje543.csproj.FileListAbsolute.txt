@@ -1,0 +1,7 @@
+C:\Users\Gordana\source\repos\LINQ_Sortiranje543\LINQ_Sortiranje543\bin\Debug\LINQ_Sortiranje543.exe.config
+C:\Users\Gordana\source\repos\LINQ_Sortiranje543\LINQ_Sortiranje543\bin\Debug\LINQ_Sortiranje543.exe
+C:\Users\Gordana\source\repos\LINQ_Sortiranje543\LINQ_Sortiranje543\bin\Debug\LINQ_Sortiranje543.pdb
+C:\Users\Gordana\source\repos\LINQ_Sortiranje543\LINQ_Sortiranje543\obj\Debug\LINQ_Sortiranje543.csprojAssemblyReference.cache
+C:\Users\Gordana\source\repos\LINQ_Sortiranje543\LINQ_Sortiranje543\obj\Debug\LINQ_Sortiranje543.csproj.CoreCompileInputs.cache
+C:\Users\Gordana\source\repos\LINQ_Sortiranje543\LINQ_Sortiranje543\obj\Debug\LINQ_Sortiranje543.exe
+C:\Users\Gordana\source\repos\LINQ_Sortiranje543\LINQ_Sortiranje543\obj\Debug\LINQ_Sortiranje543.pdb
